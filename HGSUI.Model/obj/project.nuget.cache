@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gTtH2PAbxdgn1i8iu6jvQAMInV2cxybw5W99XF8db1C1nPnSiJ2VCgkHk3Gh37fqEVIzNgZC4uIAaSZK3eotHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGSUI.Model\\HGS.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.0\\microsoft.aspnetcore.http.features.3.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.io.pipelines\\4.7.0\\system.io.pipelines.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

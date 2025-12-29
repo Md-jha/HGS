@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\.net2\HGS publish</_PublishTargetUrl>
+    <History>True|2025-09-09T08:58:55.3129472Z;True|2025-08-20T16:33:18.2337484+05:30;True|2025-08-08T18:04:22.8360011+05:30;True|2025-08-07T00:38:22.2432268+05:30;True|2025-08-04T17:55:00.9332350+05:30;True|2025-08-04T16:54:02.0204214+05:30;True|2025-07-28T15:13:42.9293744+05:30;True|2025-07-28T14:56:10.2129212+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

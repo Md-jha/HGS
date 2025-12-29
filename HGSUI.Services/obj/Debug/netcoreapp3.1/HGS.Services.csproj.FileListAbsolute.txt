@@ -1,0 +1,39 @@
+E:\HGS Web\HGSUI.Services\bin\Debug\netcoreapp3.1\HGS.Services.deps.json
+E:\HGS Web\HGSUI.Services\bin\Debug\netcoreapp3.1\HGS.Services.dll
+E:\HGS Web\HGSUI.Services\bin\Debug\netcoreapp3.1\HGS.Services.pdb
+E:\HGS Web\HGSUI.Services\bin\Debug\netcoreapp3.1\HGS.Model.dll
+E:\HGS Web\HGSUI.Services\bin\Debug\netcoreapp3.1\HGS.Model.pdb
+E:\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.csproj.AssemblyReference.cache
+E:\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.AssemblyInfoInputs.cache
+E:\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.AssemblyInfo.cs
+E:\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.csproj.CoreCompileInputs.cache
+E:\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.csproj.CopyComplete
+E:\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.dll
+E:\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.pdb
+E:\HGS ALL Project\HGS Web\HGSUI.Services\bin\Debug\netcoreapp3.1\HGS.Services.deps.json
+E:\HGS ALL Project\HGS Web\HGSUI.Services\bin\Debug\netcoreapp3.1\HGS.Services.dll
+E:\HGS ALL Project\HGS Web\HGSUI.Services\bin\Debug\netcoreapp3.1\HGS.Services.pdb
+E:\HGS ALL Project\HGS Web\HGSUI.Services\bin\Debug\netcoreapp3.1\HGS.Model.dll
+E:\HGS ALL Project\HGS Web\HGSUI.Services\bin\Debug\netcoreapp3.1\HGS.Model.pdb
+E:\HGS ALL Project\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.csproj.AssemblyReference.cache
+E:\HGS ALL Project\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\HGS ALL Project\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.AssemblyInfoInputs.cache
+E:\HGS ALL Project\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.AssemblyInfo.cs
+E:\HGS ALL Project\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.csproj.CoreCompileInputs.cache
+E:\HGS ALL Project\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.csproj.CopyComplete
+E:\HGS ALL Project\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.dll
+E:\HGS ALL Project\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.pdb
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGSUI.Services\bin\Debug\netcoreapp3.1\HGS.Services.deps.json
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGSUI.Services\bin\Debug\netcoreapp3.1\HGS.Services.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGSUI.Services\bin\Debug\netcoreapp3.1\HGS.Services.pdb
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGSUI.Services\bin\Debug\netcoreapp3.1\HGS.Model.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGSUI.Services\bin\Debug\netcoreapp3.1\HGS.Model.pdb
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.AssemblyInfo.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Serv.8D8CD953.Up2Date
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGSUI.Services\obj\Debug\netcoreapp3.1\HGS.Services.pdb

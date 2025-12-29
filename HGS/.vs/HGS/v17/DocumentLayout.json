@@ -1,0 +1,582 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\keyconsiderations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\keyconsiderations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\banglore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\banglore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\blaze.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\blaze.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\bloglist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\bloglist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\career.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\career.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\chrome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\chrome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\completeguide.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\completeguide.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\delhi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\delhi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\fabricprintingmachineandtextileprinterguide.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\fabricprintingmachineandtextileprinterguide.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\fabricselectionmatters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\fabricselectionmatters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\fabricsworkbestfordigitaltextile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\fabricsworkbestfordigitaltextile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\faqs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\faqs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\gurgaon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\gurgaon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\huegush.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\huegush.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\hydrabad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\hydrabad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\kolkata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\kolkata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\leopard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\leopard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\ludhiana.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\ludhiana.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\mohali.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\mohali.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\mumbai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\mumbai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\noida.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\noida.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\richotejas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\richotejas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\sapphire.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\sapphire.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\surat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\surat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\textileprintervsfabricprinter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\textileprintervsfabricprinter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\tirupur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\tirupur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\home\\blog1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\home\\blog1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|c:\\users\\user\\documents\\hgs web (2)\\hgs web\\hgs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1C470F-6B99-4C97-895C-78B968350A5B}|HGS.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "blaze.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\blaze.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\blaze.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\blaze.cshtml",
+              "RelativeToolTip": "Views\\Home\\blaze.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:40:23.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Banglore.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Banglore.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Banglore.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Banglore.cshtml",
+              "RelativeToolTip": "Views\\Home\\Banglore.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:40:17.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "about.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\about.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\about.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\about.cshtml",
+              "RelativeToolTip": "Views\\Home\\about.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:31:44.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CompleteGuide.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\CompleteGuide.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CompleteGuide.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\CompleteGuide.cshtml",
+              "RelativeToolTip": "Views\\Home\\CompleteGuide.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:40:58.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KeyConsiderations.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\KeyConsiderations.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\KeyConsiderations.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\KeyConsiderations.cshtml",
+              "RelativeToolTip": "Views\\Home\\KeyConsiderations.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:42:31.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADkAAACAZmZmZmYkwBMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:42:23.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\blog.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\blog.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\blog.cshtml",
+              "RelativeToolTip": "Views\\Home\\blog.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:40:28.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bloglist.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Bloglist.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Bloglist.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Bloglist.cshtml",
+              "RelativeToolTip": "Views\\Home\\Bloglist.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:40:38.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "career.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\career.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\career.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\career.cshtml",
+              "RelativeToolTip": "Views\\Home\\career.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:40:47.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "chrome.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\chrome.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\chrome.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\chrome.cshtml",
+              "RelativeToolTip": "Views\\Home\\chrome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:40:53.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\contact.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:41:04.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delhi.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Delhi.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Delhi.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Delhi.cshtml",
+              "RelativeToolTip": "Views\\Home\\Delhi.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:41:21.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FabricPrintingMachineandTextilePrinterGuide.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\FabricPrintingMachineandTextilePrinterGuide.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\FabricPrintingMachineandTextilePrinterGuide.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\FabricPrintingMachineandTextilePrinterGuide.cshtml",
+              "RelativeToolTip": "Views\\Home\\FabricPrintingMachineandTextilePrinterGuide.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:41:41.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FabricSelectionMatters.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\FabricSelectionMatters.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\FabricSelectionMatters.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\FabricSelectionMatters.cshtml",
+              "RelativeToolTip": "Views\\Home\\FabricSelectionMatters.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:41:45.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FabricsWorkBestForDigitalTextile.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\FabricsWorkBestForDigitalTextile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\FabricsWorkBestForDigitalTextile.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\FabricsWorkBestForDigitalTextile.cshtml",
+              "RelativeToolTip": "Views\\Home\\FabricsWorkBestForDigitalTextile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:41:49.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "faqs.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\faqs.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\faqs.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\faqs.cshtml",
+              "RelativeToolTip": "Views\\Home\\faqs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:41:55.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Gurgaon.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Gurgaon.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Gurgaon.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Gurgaon.cshtml",
+              "RelativeToolTip": "Views\\Home\\Gurgaon.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:42:00.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "huegush.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\huegush.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\huegush.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\huegush.cshtml",
+              "RelativeToolTip": "Views\\Home\\huegush.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:42:04.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Hydrabad.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Hydrabad.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Hydrabad.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Hydrabad.cshtml",
+              "RelativeToolTip": "Views\\Home\\Hydrabad.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:42:09.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Kolkata.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Kolkata.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Kolkata.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Kolkata.cshtml",
+              "RelativeToolTip": "Views\\Home\\Kolkata.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:42:37.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "leopard.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\leopard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\leopard.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\leopard.cshtml",
+              "RelativeToolTip": "Views\\Home\\leopard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:42:42.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Ludhiana.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Ludhiana.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Ludhiana.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Ludhiana.cshtml",
+              "RelativeToolTip": "Views\\Home\\Ludhiana.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:42:49.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Mohali.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Mohali.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Mohali.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Mohali.cshtml",
+              "RelativeToolTip": "Views\\Home\\Mohali.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:42:54.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Mumbai.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Mumbai.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Mumbai.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Mumbai.cshtml",
+              "RelativeToolTip": "Views\\Home\\Mumbai.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:42:57.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Noida.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Noida.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Noida.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Noida.cshtml",
+              "RelativeToolTip": "Views\\Home\\Noida.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:43:03.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:43:06.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "product.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\product.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\product.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\product.cshtml",
+              "RelativeToolTip": "Views\\Home\\product.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:43:08.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "productdetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\productdetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\productdetails.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\productdetails.cshtml",
+              "RelativeToolTip": "Views\\Home\\productdetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:43:15.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "richotejas.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\richotejas.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\richotejas.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\richotejas.cshtml",
+              "RelativeToolTip": "Views\\Home\\richotejas.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:43:21.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "sapphire.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\sapphire.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\sapphire.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\sapphire.cshtml",
+              "RelativeToolTip": "Views\\Home\\sapphire.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:43:25.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Surat.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Surat.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Surat.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Surat.cshtml",
+              "RelativeToolTip": "Views\\Home\\Surat.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:43:39.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TextilePrintervsFabricPrinter.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\TextilePrintervsFabricPrinter.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\TextilePrintervsFabricPrinter.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\TextilePrintervsFabricPrinter.cshtml",
+              "RelativeToolTip": "Views\\Home\\TextilePrintervsFabricPrinter.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:43:30.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Tirupur.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Tirupur.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Tirupur.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Tirupur.cshtml",
+              "RelativeToolTip": "Views\\Home\\Tirupur.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:43:44.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Blog1.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Blog1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Blog1.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Home\\Blog1.cshtml",
+              "RelativeToolTip": "Views\\Home\\Blog1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T12:31:28.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\HGS Web (2)\\HGS Web\\HGS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T11:59:00.939Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

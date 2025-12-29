@@ -1,0 +1,120 @@
+﻿@model List<HGS.Model.BlogModel>
+@{
+    ViewData["Title"] = "blog";
+}
+
+
+@section MetaTags {
+    <title> Blog </title>
+
+}
+<!--Page Title-->
+<section class="page-banner style-two" style="background-image:url(/images/background/career-page-title-bg.jpg);">
+    <div class="auto-container">
+        <div class="inner-container clearfix">
+            <h1>Blog</h1>
+            <ul class="bread-crumb clearfix">
+                <li><a href="/Home/index">Home</a></li>
+                <li>Blog</li>
+            </ul>
+        </div>
+    </div>
+</section>
+<!--End Page Title-->
+
+<div class="sidebar-page-container">
+    <div class="auto-container">
+        <div class="row clearfix">
+
+            <!--Content Side-->
+            <div class="content-side col-lg-8 col-md-12 col-sm-12">
+                <div class="blog-detail">
+
+                    @foreach (var item in Model)
+                    {
+                        <div class="inner-box mb-5">
+                            <div class="image">
+                                <img src="@item.BlogImageUrl" alt="@item.BlogTopic" style="width:100%; height:auto;">
+                            </div>
+                            <div class="lower-content">
+                                <div class="content-inner">
+                                    <div class="title-box">
+                                        <ul class="post-meta">
+                                            <li>@item.PostedDate.ToString("MMMM dd, yyyy") by <strong>@item.AuthorName</strong></li>
+                                        </ul>
+                                        <h2>@item.BlogTopic</h2>
+                                    </div>
+                                    <div class="text">
+                                        <p>
+                                            @item.BlogContent.Substring(0, Math.Min(350, item.BlogContent.Length))...
+                                        </p>
+                                        @*<a href="@Url.Action("Blog1","Home",new {item.BlogId})"
+                                            class="theme-btn btn-style-one">Read More</a>*@
+                                    <a href="@Url.Action("Blog1","Home", new { blogTopic = item.BlogTopic.Replace(" ", "-") })"
+                                       class="theme-btn btn-style-one">
+                                        Read More
+                                    </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+                </div>
+            </div>
+
+            <!--Sidebar Side-->
+            <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
+                <aside class="sidebar padding-left">
+
+                    <!-- Recent Posts -->
+                    <div class="sidebar-widget popular-posts">
+                        <div class="sidebar-title"><h5>Recent Posts</h5></div>
+                        <div class="widget-content">
+                            @foreach (var post in Model.Take(6))
+                            {
+                                <article class="post">
+                                    <div class="post-inner">
+                                        <figure class="post-thumb">
+                                            <a href="@Url.Action("Blog1","Home", new {post.BlogId })">
+                                                <img src="@post.BlogImageUrl" alt="@post.BlogTopic" style="height:70px; width:100px;">
+                                            </a>
+                                        </figure>
+                                        <div class="text">
+                                            <a href="@Url.Action("Blog1","Home", new {post.BlogId })">
+                                                @post.BlogTopic
+                                            </a>
+                                        </div>
+                                        <div class="post-info">@post.PostedDate.ToString("MMM dd, yyyy")</div>
+                                    </div>
+                                </article>
+                            }
+                        </div>
+                    </div>
+
+                    <!-- Services Widget -->
+                    <div class="sidebar-widget services-widget">
+                        <div class="widget-content" style="background-image:url(/images/resource/support.jpg);">
+                            <div class="icon flaticon-settings-4"></div>
+                            <h3>Optimising Performance with Special Services</h3>
+                            <div class="text">Discover how we're improving <br> quality of Industries</div>
+                            <a href="contact.html" class="theme-btn btn-style-two">get in touch</a>
+                        </div>
+                    </div>
+
+                    <!-- Support Widget -->
+                    <div class="sidebar-widget support-widget">
+                        <div class="widget-content">
+                            <span class="icon flaticon-telephone-1"></span>
+                            <div class="text">Got any Questions? <br> Call us Today!</div>
+                            <div class="number">+91 - 9654382384</div>
+                            <div class="email"><a href="mailto:info@hgsmachines.com">info@hgsmachines.com</a></div>
+                        </div>
+                    </div>
+
+                </aside>
+            </div>
+
+        </div>
+    </div>
+</div>

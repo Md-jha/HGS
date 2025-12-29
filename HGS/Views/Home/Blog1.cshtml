@@ -1,0 +1,114 @@
+﻿@model HGS.Model.BlogViewModel
+@{
+
+    ViewData["Title"] = "CompleteGuide";
+}
+@section MetaTags {
+    <title>@Model.BlogTopic</title>
+    <meta name="title" content="@Model.BlogTopic" />
+    <meta name="description" content="@Model.MetaDescreption" />
+    <meta property="og:title" content="@Model.BlogTopic" />
+    <meta property="og:description" content="@Model.MetaDescreption" />
+    <meta name="keywords" content="@Model.MetaTags"/>   
+}
+
+<!--Page Title-->
+<section class="page-banner style-two" style="background-image:url(/images/background/career-page-title-bg.jpg);">
+    <div class="auto-container">
+        <div class="inner-container clearfix">
+            <h1>Blog-details</h1>
+            <ul class="bread-crumb clearfix">
+                <li><a href="/Home/index">Home</a></li>
+                <li>Blog-details</li>
+            </ul>
+        </div>
+    </div>
+</section>
+<!--End Page Title-->
+
+<div class="sidebar-page-container">
+    <div class="auto-container">
+        <div class="row clearfix">
+
+            <!-- Blog Content -->
+            <div class="content-side col-lg-8 col-md-12 col-sm-12">
+                <div class="blog-detail">
+                    <div class="inner-box">
+                        <div class="image">
+                            <img src="@Model.BlogImageUrl" alt="@Model.BlogTopic" style="width:100%;height:auto;">
+                        </div>
+                        <div class="lower-content">
+                            <div class="content-inner">
+                                <div class="title-box">
+                                    <ul class="post-meta">
+                                        <li>@Model.PostedDate.ToString("MMMM dd, yyyy") by <strong>@Model.AuthorName</strong></li>
+                                        <li><strong>@Model.BlogTopic</strong></li>
+                                    </ul>
+                                    <h2>@Model.BlogTopic</h2>
+                                </div>
+
+                                <!-- Blog Body -->
+                                <div class="text">
+                                    @Html.Raw(Model.BlogContentDataSepration)
+                                </div>
+                                <!-- End Blog Body -->
+                                @*New Article Navigation
+                                    <div class="new-article">
+                                        <div class="clearfix">
+                                            <div class="prev-post">
+                                                @if (Model.PreviousBlogId > 0)
+                                                {
+                                                    <a href="@Url.Action("Blog1","Home",new { BlogId = Model.PreviousBlogId })">
+                                                        <span class="fas fa-angle-left"></span> prev article
+                                                    </a>
+                                                }
+                                            </div>
+                                            <div class="next-post">
+                                                @if (Model.NextBlogId > 0)
+                                                {
+                                                    <a href="@Url.Action("Blog1","Home",new { BlogId = Model.NextBlogId })">
+                                                        next article <span class="fas fa-angle-right"></span>
+                                                    </a>
+                                                }
+                                            </div>
+                                        </div>
+                                    </div>
+                                     End Navigation*@
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Blog Content -->
+            <!-- Sidebar -->
+            <div class="col-lg-4 col-12">
+                <div class="blog-right-bar practice-details-area case-stadies-details-area">
+                    <div class="row">
+                        <div class="col-lg-12 col-md-6">
+                            <div class="practice-section resent-section practice-catagory-item">
+                                <h3 class="text-left">Recent Post</h3>
+                                <div class="posts">
+                                    @foreach (var item in Model.BlogList)
+                                    {
+                                        <div class="post post2">
+                                            <div class="img-holder">
+                                                <img src="@item.BlogImageUrl" style="height:125px; width:225px;" alt="@item.BlogTopic">
+                                            </div>
+                                            <a href="@Url.Action("Blog1","Home",new { BlogId = item.BlogId })">
+                                                <div class="details">
+                                                    <p>@item.BlogTopic</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Sidebar -->
+
+        </div>
+    </div>
+</div>

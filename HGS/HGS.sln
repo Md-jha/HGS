@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35931.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HGS", "HGS.csproj", "{9E1C470F-6B99-4C97-895C-78B968350A5B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HGS.Model", "..\HGSUI.Model\HGS.Model.csproj", "{D2158C89-3908-41D8-BE1A-FA8C960B8025}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HGS.Services", "..\HGSUI.Services\HGS.Services.csproj", "{782BCC8F-DF3D-419A-A707-375D2C075FB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E1C470F-6B99-4C97-895C-78B968350A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E1C470F-6B99-4C97-895C-78B968350A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E1C470F-6B99-4C97-895C-78B968350A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E1C470F-6B99-4C97-895C-78B968350A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2158C89-3908-41D8-BE1A-FA8C960B8025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2158C89-3908-41D8-BE1A-FA8C960B8025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2158C89-3908-41D8-BE1A-FA8C960B8025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2158C89-3908-41D8-BE1A-FA8C960B8025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{782BCC8F-DF3D-419A-A707-375D2C075FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{782BCC8F-DF3D-419A-A707-375D2C075FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{782BCC8F-DF3D-419A-A707-375D2C075FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{782BCC8F-DF3D-419A-A707-375D2C075FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {320E453B-8FB6-4FAA-8258-7CECB701E14E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,165 @@
+﻿@model HGS.Models.Contact
+@{
+    ViewData["Title"] = "contact";
+}
+
+@section MetaTags {
+	<title> Contact Us </title>
+
+}
+
+<!--Page Title-->
+<section class="page-banner" style="background-image:url(/images/background/3.jpg);">
+	<div class="auto-container">
+		<div class="inner-container clearfix">
+			<h1>Contact us</h1>
+			<ul class="bread-crumb clearfix">
+				<li><a href="/Home/Index">Home</a></li>
+				<li>Get In Touch</li>
+			</ul>
+		</div>
+	</div>
+</section>
+<!--End Page Title-->
+<!-- Contact Page Section -->
+<section class="contact-page-section">
+	<div class="auto-container">
+		<div class="row clearfix">
+
+			<!-- Info Column -->
+			<div class="info-column col-lg-4 col-md-12 col-sm-12">
+				<div class="inner-column wow fadeInLeft" data-wow-delay="0ms">
+					<!-- Title Box -->
+					<div class="title-box">
+						<h3>Contact Details</h3>
+						<div class="title-text">Get in touch with us for any questions about our industries or projects.</div>
+					</div>
+					<ul class="contact-info-list">
+						<li><span class="icon icon-home"></span><strong>Head Office</strong>E-21, Site – C, Surajpur Industrial Area, Greater Noida, Gautam Buddh Nagar (U.P.)</li>
+						<li><span class="icon icon-location-pin"></span><strong>Factory Address</strong>E-21, Site – C, Surajpur Industrial Area, Greater Noida, Gautam Buddh Nagar (U.P.)</li>
+						<li><span class="icon icon-envelope-open"></span><strong>Email us</strong>info@hgsmachines.com</li>
+						<li><span class="icon icon-call-in"></span><strong>Call Support</strong>+91 - 9654382384</li>
+					</ul>
+
+					<!-- Social Links -->
+					<ul class="social-links">
+						<li><a href="https://www.facebook.com/HGSMachines"><span class="fab fa-facebook-f"></span></a></li>
+
+						<li><a href="https://twitter.com/hgsmachines"><span class="fab fa-twitter"></span></a></li>
+						<li><a href="https://www.linkedin.com/in/hgs-machines-53b890196/"><span class="fab fa-linkedin-in"></span></a></li>
+						<li><a href="https://www.youtube.com/channel/UCD_j_PlUoFmwNJDdVixfj6A"><span class="fab fa-youtube"></span></a></li>
+					</ul>
+
+				</div>
+			</div>
+
+			<!-- Form Column -->
+			<div class="form-column col-lg-8 col-md-12 col-sm-12">
+				<div class="inner-column wow fadeInRight" data-wow-delay="0ms">
+					<!-- Sec Title -->
+					<div class="sec-title">
+						<div class="title">We are HGS Machines</div>
+						<h2>Send a Message</h2>
+					</div>
+
+					<!-- Contact Form -->
+					<div class="contact-form">
+						<form method="post" asp-action="Contact" asp-controller="Home" id="contact-form">
+							<div class="row clearfix">
+
+								<div class="col-lg-6 col-md-6 col-sm-12 form-group">
+									<input type="text" asp-for="firstname" name="firstname" placeholder="First Name " required>
+								</div>
+
+								<div class="col-lg-6 col-md-6 col-sm-12 form-group">
+									<input type="text" asp-for="lastname" name="lastname" placeholder="Last Name " required>
+								</div>
+
+								<div class="col-lg-6 col-md-6 col-sm-12 form-group">
+									<input type="email" asp-for="Email" name="email" placeholder="Email " required>
+								</div>
+
+								<div class="col-lg-6 col-md-6 col-sm-12 form-group">
+									<input type="text" asp-for="Phone" name="phone" placeholder="Phone " required>
+								</div>
+
+								<div class="col-lg-6 col-md-6 col-sm-12 form-group">
+									<input type="text" asp-for="Company" name="company" placeholder="Company " required>
+								</div>
+
+								<div class="col-lg-6 col-md-6 col-sm-12 form-group">
+									<input type="text" asp-for="subject" name="subject" placeholder="subject " required>
+								</div>
+
+								<div class="col-lg-12 col-md-12 col-sm-12 form-group">
+									<textarea name="message" asp-for="message" placeholder="Message "></textarea>
+								</div>
+
+								<div class="col-lg-12 col-md-12 col-sm-12 form-group">
+									<button class="theme-btn btn-style-five" type="submit" name="submit-form">Send Now</button>
+								</div>
+
+							</div>
+						</form>
+
+					</div>
+
+				</div>
+			</div>
+
+		</div>
+	</div>
+</section>
+<!-- End Contact Page Section -->
+<!-- Contact Map Section -->
+<section class="contact-map-section">
+	<div class="outer-container">
+		<div class="map-outer">
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3505.7817991869947!2d77.51447647311052!3d28.51621193573194!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cf1ab8f8541c3%3A0xb0a128a76f6bba13!2sHGS%20Machines%20Pvt%20Ltd!5e0!3m2!1sen!2sin!4v1748697095155!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+		</div>
+	</div>
+</section>
+<!-- End Map Section -->
+<!--Newsleter Section-->
+<section class="newsletter-section">
+	<div class="auto-container">
+		<div class="inner-container">
+			<div class="row clearfix">
+
+				<!--Title Column-->
+				<div class="title-column col-lg-6 col-md-12 col-sm-12">
+					<div class="inner-column">
+						<h2>Get in touch with us</h2>
+					</div>
+				</div>
+
+				<!--Form Column-->
+				<div class="form-column col-lg-6 col-md-12 col-sm-12">
+					<div class="inner-column">
+
+						<!--Subscribe Form-->
+						<div class="subscribe-form">
+							<form method="post" action="">
+								<div class="form-group">
+
+									<a href="contact.html" class="theme-btn submit-btn">Contact Us</a>
+								</div>
+							</form>
+						</div>
+
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Newsleter Section-->
+@if (TempData["SuccessMessage"] != null)
+{
+    <script type="text/javascript">
+        window.onload = function () {
+            alert("@TempData["SuccessMessage"]");
+        };
+    </script>
+}

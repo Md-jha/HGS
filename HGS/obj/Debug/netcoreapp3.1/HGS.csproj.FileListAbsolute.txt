@@ -1,0 +1,734 @@
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\appsettings.json
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\HGS.exe
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\HGS.deps.json
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\HGS.runtimeconfig.json
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\HGS.runtimeconfig.dev.json
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\HGS.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\HGS.pdb
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\HGS.Views.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\HGS.Views.pdb
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\BouncyCastle.Cryptography.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\MailKit.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\MimeKit.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net2\HGS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\HGS.csproj.AssemblyReference.cache
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\HGS.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\HGS.AssemblyInfoInputs.cache
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\HGS.AssemblyInfo.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\HGS.csproj.CoreCompileInputs.cache
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\HGS.MvcApplicationPartsAssemblyInfo.cache
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\HGS.RazorAssemblyInfo.cache
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\HGS.RazorAssemblyInfo.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\HGS.TagHelpers.input.cache
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\HGS.TagHelpers.output.cache
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\HGS.RazorCoreGenerate.cache
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\about.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\blaze.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\blog.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\blog4.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\career.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\chrome.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\contact.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\faqs.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\huegush.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\leopard.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\product.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\productdetails.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\richotejas.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\sapphire.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\HGS.RazorTargetAssemblyInfo.cache
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\HGS.RazorTargetAssemblyInfo.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\HGS.Views.pdb
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\staticwebassets\HGS.StaticWebAssets.Manifest.cache
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\staticwebassets\HGS.StaticWebAssets.Pack.cache
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.HGS.Microsoft.AspNetCore.StaticWebAssets.props
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.HGS.props
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.HGS.props
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.HGS.props
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\HGS.csproj.Up2Date
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\HGS.dll
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\HGS.pdb
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\HGS.genruntimeconfig.cache
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delhi.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Ludhiana.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Surat.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Tirupur.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\FabricPrintingMachineandTextilePrinterGuide.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\FabricsWorkBestForDigitalTextile.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\FabricSelectionMatters.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\KeyConsiderations.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\TextilePrintervsFabricPrinter.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mumbai.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Banglore.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Gurgaon.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Hydrabad.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Kolkata.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mohali.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Noida.cshtml.g.cs
+E:\.net2\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\CompleteGuide.cshtml.g.cs
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\appsettings.json
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.exe
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.deps.json
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.runtimeconfig.json
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.runtimeconfig.dev.json
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.pdb
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.Views.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.Views.pdb
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\BouncyCastle.Cryptography.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\MailKit.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\MimeKit.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.Model.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.Services.dll
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.Services.pdb
+E:\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.Model.pdb
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.csproj.AssemblyReference.cache
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.GeneratedMSBuildEditorConfig.editorconfig
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.AssemblyInfoInputs.cache
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.AssemblyInfo.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.csproj.CoreCompileInputs.cache
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.MvcApplicationPartsAssemblyInfo.cache
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.RazorAssemblyInfo.cache
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.RazorAssemblyInfo.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\staticwebassets\HGS.StaticWebAssets.Manifest.cache
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\staticwebassets\HGS.StaticWebAssets.xml
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\scopedcss\bundle\HGS.styles.css
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.TagHelpers.input.cache
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.TagHelpers.output.cache
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.RazorCoreGenerate.cache
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\about.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Banglore.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\blaze.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\blog.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Blog1.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\blog4.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Bloglist.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\career.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\chrome.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\CompleteGuide.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\contact.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delhi.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\FabricPrintingMachineandTextilePrinterGuide.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\FabricSelectionMatters.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\FabricsWorkBestForDigitalTextile.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\faqs.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Gurgaon.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\huegush.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Hydrabad.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\KeyConsiderations.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Kolkata.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\leopard.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Ludhiana.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mohali.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mumbai.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Noida.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\product.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\productdetails.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\richotejas.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\sapphire.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Surat.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\TextilePrintervsFabricPrinter.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Tirupur.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.RazorTargetAssemblyInfo.cache
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.RazorTargetAssemblyInfo.cs
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.Views.pdb
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.csproj.CopyComplete
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.dll
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.pdb
+E:\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.genruntimeconfig.cache
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\appsettings.json
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.exe
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.deps.json
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.runtimeconfig.json
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.runtimeconfig.dev.json
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.pdb
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.Views.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.Views.pdb
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\BouncyCastle.Cryptography.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\MailKit.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\MimeKit.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.Model.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.Services.dll
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.Services.pdb
+E:\HGS ALL Project\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.Model.pdb
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.csproj.AssemblyReference.cache
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.GeneratedMSBuildEditorConfig.editorconfig
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.AssemblyInfoInputs.cache
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.AssemblyInfo.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.csproj.CoreCompileInputs.cache
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.MvcApplicationPartsAssemblyInfo.cache
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.RazorAssemblyInfo.cache
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.RazorAssemblyInfo.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\staticwebassets\HGS.StaticWebAssets.Manifest.cache
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\staticwebassets\HGS.StaticWebAssets.xml
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\scopedcss\bundle\HGS.styles.css
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.TagHelpers.input.cache
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.TagHelpers.output.cache
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.RazorCoreGenerate.cache
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\about.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Banglore.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\blaze.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\blog.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Blog1.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\blog4.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Bloglist.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\career.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\chrome.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\CompleteGuide.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\contact.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delhi.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\FabricPrintingMachineandTextilePrinterGuide.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\FabricSelectionMatters.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\FabricsWorkBestForDigitalTextile.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\faqs.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Gurgaon.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\huegush.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Hydrabad.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\KeyConsiderations.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Kolkata.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\leopard.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Ludhiana.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mohali.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mumbai.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Noida.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\product.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\productdetails.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\richotejas.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\sapphire.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Surat.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\TextilePrintervsFabricPrinter.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Tirupur.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.RazorTargetAssemblyInfo.cache
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.RazorTargetAssemblyInfo.cs
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.Views.pdb
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.csproj.CopyComplete
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.dll
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.pdb
+E:\HGS ALL Project\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.genruntimeconfig.cache
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.StaticWebAssets.xml
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.exe
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.deps.json
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.runtimeconfig.json
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.runtimeconfig.dev.json
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.pdb
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.Views.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.Views.pdb
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\BouncyCastle.Cryptography.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.Model.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.Services.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.Services.pdb
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\bin\Debug\netcoreapp3.1\HGS.Model.pdb
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.AssemblyInfo.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.RazorAssemblyInfo.cache
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.RazorAssemblyInfo.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.TagHelpers.input.cache
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.TagHelpers.output.cache
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.RazorCoreGenerate.cache
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\about.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Banglore.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\blaze.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\blog.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Blog1.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\blog4.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Bloglist.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\career.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\chrome.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\CompleteGuide.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\contact.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delhi.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\FabricPrintingMachineandTextilePrinterGuide.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\FabricSelectionMatters.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\FabricsWorkBestForDigitalTextile.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\faqs.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Gurgaon.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\huegush.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Hydrabad.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\KeyConsiderations.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Kolkata.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\leopard.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Ludhiana.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mohali.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mumbai.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Noida.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\product.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\productdetails.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\richotejas.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\sapphire.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Surat.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\TextilePrintervsFabricPrinter.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Tirupur.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.RazorTargetAssemblyInfo.cs
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.Views.pdb
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\staticwebassets\HGS.StaticWebAssets.Manifest.cache
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\staticwebassets\HGS.StaticWebAssets.Pack.cache
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.HGS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.HGS.props
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.HGS.props
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.HGS.props
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.csproj.Up2Date
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.dll
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.pdb
+C:\Users\USER\Documents\HGS Web (2)\HGS Web\HGS\obj\Debug\netcoreapp3.1\HGS.genruntimeconfig.cache
